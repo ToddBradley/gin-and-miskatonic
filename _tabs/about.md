@@ -2,7 +2,9 @@
 title: About
 icon: fas fa-info-circle
 order: 4
+image: /images/battlefield.webp
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+This website is all about a campaign of Call of Cthulhu, 7th Edition. We play in Denver, Colorado.
+
+![](</images/battlefield.webp>)
