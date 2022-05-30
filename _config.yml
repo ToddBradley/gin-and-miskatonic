@@ -41,7 +41,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Todd Bradley and others
+  name: Various Investigators
   email: todd@toddbradley.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -135,6 +135,8 @@ collections:
   tabs:
     output: true
     sort_by: order
+  investigators:
+    sort_by: name
 
 defaults:
   - scope:
