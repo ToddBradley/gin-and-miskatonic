@@ -4,7 +4,7 @@ title: Investigators
 order: 1
 ---
 
-![](/images/chase-scene-gone-wrong.jpg){: width="400"}
+![chase scene gone wrong](/images/chase-scene-gone-wrong.jpg){: width="400"}
 
 ## Current investigators
 
