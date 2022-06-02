@@ -1,6 +1,5 @@
 ---
 title: Skinny Larry
-name: Lawrence
 layout: investigator
 ---
 

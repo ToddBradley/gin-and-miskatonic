@@ -21,19 +21,22 @@ timezone: America/Denver
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Transcendental Investigations                          # the main title
+title: Gin and Miskatonic
 
-tagline: We go through hell so you don't have to   # it will display as the sub-title
+tagline: Role playing in the World of Lovecraft
 
 description: >-                        # used by seo meta and the atom feed
   People say war is hell. We survived the war.
   If you need smart and tough investigators, we're your lads.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://toddbradley.github.io/gin-and-miskatonic'
 
 github:
   username: ToddBradley             # change to your github username
+
+twitter:
+  username: ToddBradley404            # change to your twitter username
 
 social:
   name: Various Investigators
