@@ -4,7 +4,7 @@ name: Lawrence
 layout: investigator
 ---
 
-![PDF file](/images/pdf-icon.png){: width="40"}**[My Investigator Character Sheet as a PDF](<Lawrence "Skinny Larry" Xavier Simons, war veteran.pdf>)**
+![PDF file](../../images/pdf-icon.png){: width="40"}**[My Investigator Character Sheet as a PDF](<Lawrence "Skinny Larry" Xavier Simons, war veteran.pdf>)**
 
 
 ![Before leaving for France](Lawrence Xavier Simons.jpg){: width="400"}
