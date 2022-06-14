@@ -1,4 +1,5 @@
-name: 'Automatic build'
+name: Build and deploy gin-and-miskatonic
+
 on:
   push:
     branches:
