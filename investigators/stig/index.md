@@ -4,6 +4,6 @@ layout: investigator
 ---
 
 
-![](stig.jpg)
+![character sheet](stig.jpg)
 _Character sheet first page_
 

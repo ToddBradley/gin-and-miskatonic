@@ -4,5 +4,5 @@ layout: investigator
 ---
 
 
-![](jerry.jpg)
+![character sheet](jerry.jpg)
 _Character sheet first page_

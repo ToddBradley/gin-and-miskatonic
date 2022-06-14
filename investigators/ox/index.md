@@ -3,5 +3,5 @@ title: Oxford "Ox" Sykes
 layout: investigator
 ---
 
-![](ox.jpg)
+![character sheet](ox.jpg)
 _Character sheet first page_
