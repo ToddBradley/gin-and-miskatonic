@@ -5,6 +5,8 @@ layout: investigator
 
 ![PDF file](../../images/pdf-icon.png){: width="40"}**[My Investigator Character Sheet as a PDF](<Lawrence "Skinny Larry" Xavier Simons, war veteran.pdf>)**
 
+![](larry-character-sheet.png)
+_Character sheet first page_
 
 ![Before leaving for France](Lawrence Xavier Simons.jpg){: width="400"}
 _Before leaving for France_
