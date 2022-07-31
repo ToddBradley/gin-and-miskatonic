@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://toddbradley.github.io/gin-and-miskatonic/gin-and-miskatonic/sitemap.xml
