@@ -21,3 +21,6 @@ Language: English (Albeit, older English)
 Description: "Three bound books, the diaries of a certain W. Corbitt, the former inhabitant of the house."  Although not as former as you were lead to believe at the time.
 
 The diaries describe Corbitt's various occult experiments, including the summoning of some unearthly spirit and other magic, and clearly describes a spell entitled "Call Forth The Opener of Ways".  The spell takes 2D6 weeks to learn.  The spell requires a dagger made from copper, and suggests not casting in bright sunlight, as the Opener may be dazzled by the light.
+
+## Title: there's more here!
+
