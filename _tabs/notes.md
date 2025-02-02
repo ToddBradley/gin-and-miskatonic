@@ -6,7 +6,7 @@ order: 2
 
 # Books
 
-## Title: Liber Ivonis
+## Liber Ivonis
 
 Language: Latin (Requires Read Latin of 50% to automatically read it, or a successful roll.)
 
@@ -15,7 +15,7 @@ Description: "Alongside the journal is an enormous volume, handwritten in Latin,
 This book takes three hours to read what's left of it, and the benefit is that you will gain 2% to your Cthulhu Mythos skill.  (This will reduce your maximum sanity by the same amount.)
 
 
-## Title: The Corbitt Diaries
+## The Corbitt Diaries
 
 Language: English (Albeit, older English)
 
