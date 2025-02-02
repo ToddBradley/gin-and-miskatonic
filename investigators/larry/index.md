@@ -5,15 +5,6 @@ layout: investigator
 
 ![PDF file](../../images/pdf-icon.png){: width="40"}**[My Investigator Character Sheet as a PDF](<Lawrence Simons, war veteran.pdf>)**
 
-![character sheet](page1.png)
-_Character sheet page 1_
-
-![character sheet](page2.png)
-_Character sheet page 2_
-
-![character sheet](page3.png)
-_Character sheet page 3_
-
 ![Before leaving for France](Lawrence Xavier Simons.jpg){: width="400"}
 _Before leaving for France_
 
