@@ -14,6 +14,8 @@ Description: "Alongside the journal is an enormous volume, handwritten in Latin,
 
 This book takes three hours to read what's left of it, and the benefit is that you will gain 2% to your Cthulhu Mythos skill.  (This will reduce your maximum sanity by the same amount.)
 
+In the possession of Aaron 
+
 
 ## The Corbitt Diaries
 
@@ -23,8 +25,10 @@ Description: "Three bound books, the diaries of a certain W. Corbitt, the former
 
 The diaries describe Corbitt's various occult experiments, including the summoning of some unearthly spirit and other magic, and clearly describes a spell entitled "Call Forth The Opener of Ways".  The spell takes 2D6 weeks to learn.  The spell requires a dagger made from copper, and suggests not casting in bright sunlight, as the Opener may be dazzled by the light.
 
+In the possession of Larry (in steamer trunk)
 
-## Libre d’Eibonis
+
+## Livre D'Ivon
 
 Language: French
 
@@ -32,8 +36,10 @@ This is a complete version of the Liber Ivonis, written in French instead of Lat
 
 Part of the *Roger Carlyle Collection* acquired from his sister Erica
 
+In the possession of Larry (in steamer trunk)
 
-## The Pnakotic Manuscript
+
+## The Pnakotic Manuscripts
 
 Language: English
 
@@ -43,6 +49,8 @@ Spells contained:
 * “Contact Mind of the Observer” (four pages)
 
 Part of the *Roger Carlyle Collection* acquired from his sister Erica
+
+In the possession of Larry (in steamer trunk)
 
 
 ## Life as a God
@@ -55,6 +63,8 @@ Jerry describes this as "Psychotic Ravings from Egypt"
 
 Part of the *Roger Carlyle Collection* acquired from his sister Erica
 
+In the possession of Larry (in steamer trunk)
+
 
 ## Among the Stones
 
@@ -62,15 +72,21 @@ Language: English
 
 Apparently a poetry manuscript
 
+Handwritten volume bound in strange leather 
+
 Part of the *Roger Carlyle Collection* acquired from his sister Erica
+
+In the possession of Larry (in steamer trunk)
 
 
 ## Africa's Dark Sects
 
 Language: English
 
+Author: Nigel Blackwell
+
 Stolen from the Harvard (Wiedner) Library by the Cult of the Bloody Tongue. Later liberated by us from the Juju House before its "unexplained" demolition.
 
 Aaron read this and seemed to learn a lot. Larry read it and had a severe reaction, prompting him to try to take his own life by leaping from a fast-moving motorcar on the turnpike.
 
-
+In the possession of Larry (in steamer trunk)
